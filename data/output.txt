@@ -1,0 +1,793 @@
+
+A
+Ghana
+F
+Statement 0 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 1 WER: 20.0% or in Decimal 0.2
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 9.090909090909092% or in Decimal 0.09090909090909091
+Statement 4 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 5 WER: 50.0% or in Decimal 0.5
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 50.0% or in Decimal 0.5
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :26.902597402597404
+
+B
+Ghana
+F
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 63.63636363636363% or in Decimal 0.6363636363636364
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 0.0% or in Decimal 0.0
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 57.14285714285714% or in Decimal 0.5714285714285714
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :17.305194805194805
+
+C
+Ghana
+M
+Statement 0 WER: 50.0% or in Decimal 0.5
+Statement 1 WER: 30.0% or in Decimal 0.3
+Statement 2 WER: 12.5% or in Decimal 0.125
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 30.0% or in Decimal 0.3
+Statement 6 WER: 0.0% or in Decimal 0.0
+Statement 7 WER: 50.0% or in Decimal 0.5
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :34.26298701298701
+
+D
+Ghana
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 50.0% or in Decimal 0.5
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 0.0% or in Decimal 0.0
+Statement 7 WER: 112.5% or in Decimal 1.125
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :40.66558441558442
+
+Country Male WER for Google: 37.464285714285715
+Country Female WER for Google: 22.103896103896105
+Country WER for Google Ghana
+: 29.78409090909091
+
+A
+Nigeria
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 100.0% or in Decimal 1.0
+Statement 3 WER: 0.0% or in Decimal 0.0
+Statement 4 WER: 9.090909090909092% or in Decimal 0.09090909090909091
+Statement 5 WER: 40.0% or in Decimal 0.4
+Statement 6 WER: 0.0% or in Decimal 0.0
+Statement 7 WER: 112.5% or in Decimal 1.125
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :43.30194805194806
+
+B
+Nigeria
+F
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 0.0% or in Decimal 0.0
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 0.0% or in Decimal 0.0
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :10.512987012987011
+
+C
+Nigeria
+F
+Statement 0 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :27.179653679653676
+
+D
+Nigeria
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 90.0% or in Decimal 0.9
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 66.66666666666666% or in Decimal 0.6666666666666665
+Statement 7 WER: 75.0% or in Decimal 0.75
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :29.660173160173155
+
+Country Male WER for Google: 36.48106060606061
+Country Female WER for Google: 18.846320346320343
+Country WER for Google Nigeria
+: 27.663690476190478
+
+A
+Zimbabwe
+F
+Statement 0 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Statement 1 WER: 80.0% or in Decimal 0.8
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 54.54545454545454% or in Decimal 0.5454545454545454
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 7 WER: 62.5% or in Decimal 0.625
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :29.54653679653679
+
+B
+Zimbabwe
+F
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :16.255411255411254
+
+C
+Zimbabwe
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 45.45454545454545% or in Decimal 0.45454545454545453
+Statement 4 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 7 WER: 75.0% or in Decimal 0.75
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :23.372294372294373
+
+D
+Zimbabwe
+M
+Statement 0 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 1 WER: 30.0% or in Decimal 0.3
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :27.134920634920633
+
+Country Male WER for Google: 25.253607503607505
+Country Female WER for Google: 22.900974025974023
+Country WER for Google Zimbabwe
+: 24.077290764790764
+
+A
+Rwanda
+F
+Statement 0 WER: 75.0% or in Decimal 0.75
+Statement 1 WER: 10.0% or in Decimal 0.1
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 9.090909090909092% or in Decimal 0.09090909090909091
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :22.417748917748916
+
+B
+Rwanda
+F
+Statement 0 WER: 25.0% or in Decimal 0.25
+Statement 1 WER: 50.0% or in Decimal 0.5
+Statement 2 WER: 62.5% or in Decimal 0.625
+Statement 3 WER: 90.9090909090909% or in Decimal 0.9090909090909091
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 25.0% or in Decimal 0.25
+Statement 7 WER: 37.5% or in Decimal 0.375
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :34.675324675324674
+
+C
+Rwanda
+M
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 112.5% or in Decimal 1.125
+Statement 3 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 4 WER: 54.54545454545454% or in Decimal 0.5454545454545454
+Statement 5 WER: 50.0% or in Decimal 0.5
+Statement 6 WER: 75.0% or in Decimal 0.75
+Statement 7 WER: 50.0% or in Decimal 0.5
+Statement 8 WER: 100.0% or in Decimal 1.0
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :71.47727272727272
+
+D
+Rwanda
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 50.0% or in Decimal 0.5
+Statement 6 WER: 25.0% or in Decimal 0.25
+Statement 7 WER: 0.0% or in Decimal 0.0
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :19.104617604617605
+
+Country Male WER for Google: 45.29094516594516
+Country Female WER for Google: 28.546536796536795
+Country WER for Google Rwanda
+: 36.91874098124098
+
+A
+Kenya
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 80.0% or in Decimal 0.8
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 7 WER: 12.5% or in Decimal 0.125
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :17.485930735930737
+
+B
+Kenya
+F
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 81.81818181818183% or in Decimal 0.8181818181818182
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 7 WER: 37.5% or in Decimal 0.375
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :33.20238095238095
+
+C
+Kenya
+F
+Statement 0 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 9.090909090909092% or in Decimal 0.09090909090909091
+Statement 4 WER: 100.0% or in Decimal 1.0
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 7 WER: 62.5% or in Decimal 0.625
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :38.51623376623376
+
+D
+Kenya
+M
+Statement 0 WER: 91.66666666666666% or in Decimal 0.9166666666666665
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 7 WER: 37.5% or in Decimal 0.375
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Average WER :25.83874458874459
+
+Country Male WER for Google: 21.662337662337663
+Country Female WER for Google: 35.85930735930735
+Country WER for Google Kenya
+: 28.760822510822507
+
+A
+America
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 12.5% or in Decimal 0.125
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 0.0% or in Decimal 0.0
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 7 WER: 37.5% or in Decimal 0.375
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :13.453102453102451
+
+B
+America
+F
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 12.5% or in Decimal 0.125
+Statement 3 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 4 WER: 0.0% or in Decimal 0.0
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 7 WER: 37.5% or in Decimal 0.375
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :14.362193362193361
+
+C
+America
+F
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 0.0% or in Decimal 0.0
+Statement 5 WER: 0.0% or in Decimal 0.0
+Statement 6 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 7 WER: 0.0% or in Decimal 0.0
+Statement 8 WER: 14.285714285714285% or in Decimal 0.14285714285714285
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :6.024531024531024
+
+D
+America
+M
+Statement 0 WER: 0.0% or in Decimal 0.0
+Statement 1 WER: 20.0% or in Decimal 0.2
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 10.0% or in Decimal 0.1
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 50.0% or in Decimal 0.5
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :21.43795093795094
+
+Country Male WER for Google: 17.445526695526695
+Country Female WER for Google: 10.193362193362193
+Country WER for Google America
+: 13.819444444444443
+
+A
+Ghana
+F
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 60.0% or in Decimal 0.6
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 4 WER: 100.0% or in Decimal 1.0
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 62.5% or in Decimal 0.625
+Statement 8 WER: 57.14285714285714% or in Decimal 0.5714285714285714
+Statement 9 WER: 0.0% or in Decimal 0.0
+Average WER :61.07034632034631
+
+B
+Ghana
+F
+Statement 0 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 1 WER: 60.0% or in Decimal 0.6
+Statement 2 WER: 12.5% or in Decimal 0.125
+Statement 3 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 20.0% or in Decimal 0.2
+Statement 6 WER: 25.0% or in Decimal 0.25
+Statement 7 WER: 112.5% or in Decimal 1.125
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 55.55555555555556% or in Decimal 0.5555555555555556
+Average WER :40.871572871572866
+
+C
+Ghana
+M
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 70.0% or in Decimal 0.7
+Statement 2 WER: 100.0% or in Decimal 1.0
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 5 WER: 50.0% or in Decimal 0.5
+Statement 6 WER: 100.0% or in Decimal 1.0
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 57.14285714285714% or in Decimal 0.5714285714285714
+Statement 9 WER: 88.88888888888889% or in Decimal 0.8888888888888888
+Average WER :83.87590187590187
+
+D
+Ghana
+M
+Statement 0 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 62.5% or in Decimal 0.625
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 54.54545454545454% or in Decimal 0.5454545454545454
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 125.0% or in Decimal 1.25
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 66.66666666666666% or in Decimal 0.6666666666666665
+Average WER :71.18073593073593
+
+Country Male WER for IBM: 77.5283189033189
+Country Female WER for IBM: 50.970959595959584
+Country WER for IBM Ghana
+: 64.24963924963924
+
+A
+Nigeria
+M
+Statement 0 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 100.0% or in Decimal 1.0
+Statement 3 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Statement 7 WER: 75.0% or in Decimal 0.75
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Average WER :60.006493506493506
+
+B
+Nigeria
+F
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 81.81818181818183% or in Decimal 0.8181818181818182
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 85.71428571428571% or in Decimal 0.8571428571428571
+Statement 9 WER: 100.0% or in Decimal 1.0
+Average WER :74.91991341991341
+
+C
+Nigeria
+F
+Statement 0 WER: 25.0% or in Decimal 0.25
+Statement 1 WER: 20.0% or in Decimal 0.2
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 63.63636363636363% or in Decimal 0.6363636363636364
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 66.66666666666666% or in Decimal 0.6666666666666665
+Statement 7 WER: 112.5% or in Decimal 1.125
+Statement 8 WER: 57.14285714285714% or in Decimal 0.5714285714285714
+Statement 9 WER: 44.44444444444444% or in Decimal 0.4444444444444444
+Average WER :51.666305916305916
+
+D
+Nigeria
+M
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 50.0% or in Decimal 0.5
+Statement 2 WER: 12.5% or in Decimal 0.125
+Statement 3 WER: 90.9090909090909% or in Decimal 0.9090909090909091
+Statement 4 WER: 100.0% or in Decimal 1.0
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 7 WER: 112.5% or in Decimal 1.125
+Statement 8 WER: 57.14285714285714% or in Decimal 0.5714285714285714
+Statement 9 WER: 77.77777777777779% or in Decimal 0.7777777777777779
+Average WER :73.24963924963924
+
+Country Male WER for IBM: 66.62806637806638
+Country Female WER for IBM: 63.293109668109665
+Country WER for IBM Nigeria
+: 64.96058802308802
+
+A
+Zimbabwe
+F
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 60.0% or in Decimal 0.6
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 4 WER: 54.54545454545454% or in Decimal 0.5454545454545454
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 57.14285714285714% or in Decimal 0.5714285714285714
+Statement 9 WER: 100.0% or in Decimal 1.0
+Average WER :70.27489177489177
+
+B
+Zimbabwe
+F
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 50.0% or in Decimal 0.5
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 100.0% or in Decimal 1.0
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 91.66666666666666% or in Decimal 0.9166666666666665
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 100.0% or in Decimal 1.0
+Statement 9 WER: 133.33333333333331% or in Decimal 1.333333333333333
+Average WER :87.5
+
+C
+Zimbabwe
+M
+Statement 0 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 1 WER: 70.0% or in Decimal 0.7
+Statement 2 WER: 50.0% or in Decimal 0.5
+Statement 3 WER: 54.54545454545454% or in Decimal 0.5454545454545454
+Statement 4 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 75.0% or in Decimal 0.75
+Statement 7 WER: 75.0% or in Decimal 0.75
+Statement 8 WER: 85.71428571428571% or in Decimal 0.8571428571428571
+Statement 9 WER: 22.22222222222222% or in Decimal 0.2222222222222222
+Average WER :57.55122655122655
+
+D
+Zimbabwe
+M
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 60.0% or in Decimal 0.6
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 63.63636363636363% or in Decimal 0.6363636363636364
+Statement 4 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 5 WER: 80.0% or in Decimal 0.8
+Statement 6 WER: 83.33333333333334% or in Decimal 0.8333333333333335
+Statement 7 WER: 87.5% or in Decimal 0.875
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 55.55555555555556% or in Decimal 0.5555555555555556
+Average WER :63.78174603174604
+
+Country Male WER for IBM: 60.666486291486294
+Country Female WER for IBM: 78.88744588744589
+Country WER for IBM Zimbabwe
+: 69.77696608946609
+
+A
+Rwanda
+F
+Statement 0 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 1 WER: 70.0% or in Decimal 0.7
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 4 WER: 100.0% or in Decimal 1.0
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Statement 7 WER: 112.5% or in Decimal 1.125
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 77.77777777777779% or in Decimal 0.7777777777777779
+Average WER :62.65764790764791
+
+B
+Rwanda
+F
+Statement 0 WER: 91.66666666666666% or in Decimal 0.9166666666666665
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 87.5% or in Decimal 0.875
+Statement 3 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 4 WER: 90.9090909090909% or in Decimal 0.9090909090909091
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 100.0% or in Decimal 1.0
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 85.71428571428571% or in Decimal 0.8571428571428571
+Statement 9 WER: 55.55555555555556% or in Decimal 0.5555555555555556
+Average WER :88.40728715728714
+
+C
+Rwanda
+M
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 100.0% or in Decimal 1.0
+Statement 2 WER: 112.5% or in Decimal 1.125
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 118.18181818181819% or in Decimal 1.1818181818181819
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 100.0% or in Decimal 1.0
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 85.71428571428571% or in Decimal 0.8571428571428571
+Statement 9 WER: 111.11111111111111% or in Decimal 1.1111111111111112
+Average WER :102.75072150072151
+
+D
+Rwanda
+M
+Statement 0 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 1 WER: 70.0% or in Decimal 0.7
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 45.45454545454545% or in Decimal 0.45454545454545453
+Statement 4 WER: 81.81818181818183% or in Decimal 0.8181818181818182
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 41.66666666666667% or in Decimal 0.41666666666666674
+Statement 7 WER: 50.0% or in Decimal 0.5
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :50.314574314574315
+
+Country Male WER for IBM: 76.53264790764791
+Country Female WER for IBM: 75.53246753246754
+Country WER for IBM Rwanda
+: 76.03255772005772
+
+A
+Kenya
+M
+Statement 0 WER: 91.66666666666666% or in Decimal 0.9166666666666665
+Statement 1 WER: 50.0% or in Decimal 0.5
+Statement 2 WER: 25.0% or in Decimal 0.25
+Statement 3 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 4 WER: 100.0% or in Decimal 1.0
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 75.0% or in Decimal 0.75
+Statement 7 WER: 50.0% or in Decimal 0.5
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 33.33333333333333% or in Decimal 0.33333333333333326
+Average WER :62.27922077922078
+
+B
+Kenya
+F
+Statement 0 WER: 91.66666666666666% or in Decimal 0.9166666666666665
+Statement 1 WER: 50.0% or in Decimal 0.5
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 100.0% or in Decimal 1.0
+Statement 4 WER: 63.63636363636363% or in Decimal 0.6363636363636364
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 66.66666666666666% or in Decimal 0.6666666666666665
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 42.857142857142854% or in Decimal 0.42857142857142855
+Statement 9 WER: 88.88888888888889% or in Decimal 0.8888888888888888
+Average WER :69.37157287157288
+
+C
+Kenya
+F
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 36.36363636363637% or in Decimal 0.36363636363636365
+Statement 4 WER: 81.81818181818183% or in Decimal 0.8181818181818182
+Statement 5 WER: 100.0% or in Decimal 1.0
+Statement 6 WER: 50.0% or in Decimal 0.5
+Statement 7 WER: 100.0% or in Decimal 1.0
+Statement 8 WER: 85.71428571428571% or in Decimal 0.8571428571428571
+Statement 9 WER: 66.66666666666666% or in Decimal 0.6666666666666665
+Average WER :66.05627705627705
+
+D
+Kenya
+M
+Statement 0 WER: 91.66666666666666% or in Decimal 0.9166666666666665
+Statement 1 WER: 30.0% or in Decimal 0.3
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 4 WER: 72.72727272727273% or in Decimal 0.7272727272727273
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 100.0% or in Decimal 1.0
+Statement 7 WER: 75.0% or in Decimal 0.75
+Statement 8 WER: 71.42857142857143% or in Decimal 0.7142857142857143
+Statement 9 WER: 77.77777777777779% or in Decimal 0.7777777777777779
+Average WER :63.58730158730159
+
+Country Male WER for IBM: 62.93326118326118
+Country Female WER for IBM: 67.71392496392497
+Country WER for IBM Kenya
+: 65.32359307359307
+
+A
+America
+M
+Statement 0 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 9.090909090909092% or in Decimal 0.09090909090909091
+Statement 5 WER: 90.0% or in Decimal 0.9
+Statement 6 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 0.0% or in Decimal 0.0
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :17.005050505050505
+
+B
+America
+F
+Statement 0 WER: 25.0% or in Decimal 0.25
+Statement 1 WER: 20.0% or in Decimal 0.2
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 20.0% or in Decimal 0.2
+Statement 6 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 7 WER: 87.5% or in Decimal 0.875
+Statement 8 WER: 14.285714285714285% or in Decimal 0.14285714285714285
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :24.001803751803752
+
+C
+America
+F
+Statement 0 WER: 16.666666666666664% or in Decimal 0.16666666666666663
+Statement 1 WER: 40.0% or in Decimal 0.4
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 4 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 5 WER: 20.0% or in Decimal 0.2
+Statement 6 WER: 8.333333333333332% or in Decimal 0.08333333333333331
+Statement 7 WER: 37.5% or in Decimal 0.375
+Statement 8 WER: 0.0% or in Decimal 0.0
+Statement 9 WER: 22.22222222222222% or in Decimal 0.2222222222222222
+Average WER :19.017676767676768
+
+D
+America
+M
+Statement 0 WER: 100.0% or in Decimal 1.0
+Statement 1 WER: 0.0% or in Decimal 0.0
+Statement 2 WER: 0.0% or in Decimal 0.0
+Statement 3 WER: 18.181818181818183% or in Decimal 0.18181818181818182
+Statement 4 WER: 27.27272727272727% or in Decimal 0.2727272727272727
+Statement 5 WER: 20.0% or in Decimal 0.2
+Statement 6 WER: 58.333333333333336% or in Decimal 0.5833333333333334
+Statement 7 WER: 25.0% or in Decimal 0.25
+Statement 8 WER: 28.57142857142857% or in Decimal 0.2857142857142857
+Statement 9 WER: 11.11111111111111% or in Decimal 0.1111111111111111
+Average WER :28.847041847041844
+
+Country Male WER for IBM: 22.926046176046174
+Country Female WER for IBM: 21.509740259740262
+Country WER for IBM America
+: 22.217893217893216
+
+Data Subset System and Gender
+Males in Google: 30.599627224627223
+Females in Google: 23.075066137566136
+Males in IBM: 61.202471139971145
+Females in IBM: 59.651274651274655
+
+Data Subset Gender
+Males: 45.90104918229918
+Female: 41.36317039442039
+
+Google's WER :26.837346681096687
+IBM's WER :60.42687289562289
