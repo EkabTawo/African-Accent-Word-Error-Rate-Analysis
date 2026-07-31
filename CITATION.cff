@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "African Accent Word Error Rate Analysis"
+message: "If you use this repository in your research, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Tawo"
+    given-names: "Ekab-Osowo"
+
+repository-code: "https://github.com/EkabTawo/African-Accent-Word-Error-Rate-Analysis"
+
+license: MIT
+
+keywords:
+  - Speech Recognition
+  - Word Error Rate
+  - Natural Language Processing
+  - IBM Watson
+  - Google Speech Recognition
+  - African English
+  - Python
